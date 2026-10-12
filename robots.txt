@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://first-home-money.howlane.com/sitemap.xml
